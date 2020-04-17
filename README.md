@@ -11,7 +11,7 @@
 点击下面连接能进到代金券领取页面，领取需要的代金券再下单购买，支付时就可以减免了，优惠金额看活动，不定期会变化，现在最新看到云服务器ECS 20，100和800元代金券，数据库产品有300和500的代金券。
 
 代金券领取连接： 
-https://www.aliyun.com/minisite/goods?userCode=rxectx6j
+[https://www.aliyun.com/minisite/goods?userCode=rxectx6j](https://sourl.cn/Qq2Dxa)
 
 
 ![img1](./WX20200418-001501.png)
